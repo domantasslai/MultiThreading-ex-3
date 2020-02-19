@@ -1,0 +1,40 @@
+D:\Kolegija\Daugiagijis programavimas\2 kurso 2 pusmetis\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Kolegija\Daugiagijis programavimas\2 kurso 2 pusmetis\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Kolegija\Daugiagijis programavimas\2 kurso 2 pusmetis\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Kolegija\Daugiagijis programavimas\2 kurso 2 pusmetis\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Kolegija\Daugiagijis programavimas\2 kurso 2 pusmetis\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Kolegija\Daugiagijis programavimas\2 kurso 2 pusmetis\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Kolegija\Daugiagijis programavimas\2 kurso 2 pusmetis\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Kolegija\Daugiagijis programavimas\2 kurso 2 pusmetis\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Kolegija\Daugiagijis programavimas\2 kurso 2 pusmetis\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Kolegija\Daugiagijis programavimas\2 kurso 2 pusmetis\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\LKAVALIAUSKAS\Desktop\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\LKAVALIAUSKAS\Desktop\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\LKAVALIAUSKAS\Desktop\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\LKAVALIAUSKAS\Desktop\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\LKAVALIAUSKAS\Desktop\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\LKAVALIAUSKAS\Desktop\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\LKAVALIAUSKAS\Desktop\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\LKAVALIAUSKAS\Desktop\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\LKAVALIAUSKAS\Desktop\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\LKAVALIAUSKAS\Desktop\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Lukas\Desktop\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Lukas\Desktop\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Lukas\Desktop\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Lukas\Desktop\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Lukas\Desktop\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Lukas\Desktop\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lukas\Desktop\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Lukas\Desktop\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\Desktop\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Lukas\Desktop\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\3 uzduotis (ARFF)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
